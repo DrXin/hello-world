@@ -1,3 +1,2 @@
-# hello-world
-it's my first github repository.
-myname is deng.
+# ALgorithms
+there will be some algorithm code written with python here.
